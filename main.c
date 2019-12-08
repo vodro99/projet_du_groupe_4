@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("intialization of the project \n");
+    printf("-----intialization of the project-----");
     return 0;
 }
