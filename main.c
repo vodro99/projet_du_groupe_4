@@ -72,7 +72,7 @@ int menu(){//la fonction menu affiche le menu, recupere et renvoie le choix du j
     printf("\t\t\t\t\t1- JOUER \n");
     printf("\t\t\t\t\t2- REGLES DU JEU \n");
     printf("\t\t\t\t\t3- QUITTER\n\n");
-    printf("Tapez 1 pour jouer; 2 pour consulter les règles du jeu ou 3 pour quitter le jeu \n>>");
+    printf("Tapez 1 pour jouer; 2 pour consulter les regles du jeu ou 3 pour quitter le jeu \n>>");
     scanf("%d", &menuchoix);
     return menuchoix;
 }//fin fonction menu
